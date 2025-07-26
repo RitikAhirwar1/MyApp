@@ -163,10 +163,9 @@ ChatZoomApp/
 
 ## 👨‍💻 Developed By
 
-**Love Porwal**
+**Ritik Ahirwar**
 Full Stack Trainer | MERN Stack Mentor
 
-Built with ❤️ to help students master real-time and fullstack apps.
 
 ---
 
