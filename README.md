@@ -164,7 +164,7 @@ ChatZoomApp/
 ## 👨‍💻 Developed By
 
 **Ritik Ahirwar**
-Full Stack Trainer | MERN Stack Mentor
+Full Stack Developer | MERN Stack Developer
 
 
 ---
